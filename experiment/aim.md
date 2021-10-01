@@ -1,1 +1,1 @@
-### Aim of the experiment
+#### To study augmented leads aVF,aVL andaVR for monitoring of electrocardiogram (ECG).
