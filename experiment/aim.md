@@ -1,1 +1,1 @@
-#### To study augmented leads aVF,aVL andaVR for monitoring of electrocardiogram (ECG).
+#### To study augmented leads aVF,aVL and aVR for monitoring of electrocardiogram (ECG).
