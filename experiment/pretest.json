@@ -1,39 +1,60 @@
 {
   "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
+  "questions":[
+		{
+		"question":"Each 1-mm square in an ECG represents in time:",
+		"answers":{
+		"a":"40 msec",
+		"b":"25 msec",
+		"c":"20 msec",
+		"d":" 10 msec"
+		},
+		"correctAnswer":"a",
+		"difficulty": "beginner"
+		},
+		{
+		"question":"Each 1-mm square in an ECG is in voltage:",
+		"answers":{
+		"a":"10 mV",
+		"b":"1 mV",
+		"c":"0.1 mV",
+		"d":" 100 mV"
+		},
+		"correctAnswer":"c",
+		"difficulty": "beginner"
+		},
+		{
+		"question":"The PR segment is from:",
+		"answers":{
+		"a":"Start of P to end of R wave",
+		"b":"End of P to start of R wave",
+		"c":"End of P to start of QRS wave",
+		"d":"start of P to start of R wave"
+		},
+		"correctAnswer":"c",
+		"difficulty": "beginner"
+		},
+		{
+		"question":"The RR Interval is an indicator of:",
+		"answers":{
+		"a":"Ventricular Rate",
+		"b":"Atrial Rate",
+		"c":"Ventricular & Atrial Rate",
+		"d":"None of these"
+		},
+		"correctAnswer":"a",
+		"difficulty": "beginner"
+		},
+		{
+		"question":"The PP Interval is an indicator of:",
+		"answers":{
+		"a":"Ventricular Rate",
+		"b":"Atrial Rate",
+		"c":"Ventricular & Atrial Rate",
+		"d":"None of these"
+		},
+		"correctAnswer":"b",
+		"difficulty": "beginner"
+	}
   ]
 }

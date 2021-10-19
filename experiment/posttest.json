@@ -1,39 +1,61 @@
 {
   "version": 2.0,
   "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
+	{
+	"question":"Normal Duration of the PR Interval is:",
+	"answers":{
+	"a":"120 - 200 msec",
+	"b":"80 - 100 msec",
+	"c":"60 - 100 msec",
+	"d":"200 - 400 msec"
+	},
+	"correctAnswer":"a",
+	"difficulty": "intermediate"
+	},
+	{
+	"question":"Normal Duration of the P Wave is:",
+	"answers":{
+	"a":"120 - 200 msec",
+	"b":"80 - 100 msec",
+	"c":"60 - 100 msec",
+	"d":"200 - 400 msec"
+	},
+	"correctAnswer":"b",
+	"difficulty": "intermediate"
+	},
+	{
+	"question":"Normal Duration of the QRS Complex is:",
+	"answers":{
+	"a":"120 - 200 msec",
+	"b":"80 - 100 msec",
+	"c":"60 - 100 msec",
+	"d":"200 - 400 msec"
+	},
+	"correctAnswer":"c",
+	"difficulty": "intermediate"
+	},
+	{
+	"question":"Normal Duration of the QT Interval is:The ST segment is from:",
+	"answers":{
+	"a":"120 - 200 msec",
+	"b":"80 - 100 msec",
+	"c":"60 - 100 msec",
+	"d":"200 - 400 msec"
+	},
+	"correctAnswer":"d",
+	"difficulty": "intermediate"
+	},
+	{
+	"question":"The ST segment is from:",
+	"answers":{
+	"a":"Start of QRS to end of T wave",
+	"b":"End of QRS to start of T wave",
+	"c":"Start of S to start of T wave",
+	"d":"start of S to end of T wave"
+	},
+	"correctAnswer":"b",
+	"difficulty": "intermediate"
+}
   ]
 }
+
